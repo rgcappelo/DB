@@ -18,11 +18,11 @@ db_menciones_hist = np.random.randint(500, 1200, len(meses_historicos))
 db_menciones_fut = np.random.randint(500, 1200, len(meses_futuros))
 
 # Título del Dashboard
-st.title("📊 Dashboard de Detección de Tendencias")
+st.title("📊 Dashboard de Detección de Tendencias - Caso Deutsche Bahn")
 
 # Objetivo del OKR
 st.header("1️⃣ Objetivo del OKR")
-st.write("Mejorar la detección temprana de tendencias de movilidad digital.")
+st.write("Mejorar la detección temprana de tendencias de movilidad digital - (Objetivo de Sensing)")
 
 # KR
 st.header("2️⃣ Key Results (KR)")
